@@ -1,0 +1,7 @@
+{
+    "name": "mackjoner/php-ext-brotli",
+    "description": "Brotli Extension for PHP, Documentation for Brotli can be found at https://github.com/google/brotli/.",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
